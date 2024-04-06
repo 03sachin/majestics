@@ -53,7 +53,7 @@ $(document).ready(function () {
 
     function fetchDataFromSheetsu() {
         $.ajax({
-            url: 'https://sheetdb.io/api/v1/lcy13a2gw4ry5',
+            url: 'https://sheetdb.io/api/v1/z3houmd5bfxes',
             method: 'GET',
             dataType: 'json',
             success: function (data) {
