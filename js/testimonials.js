@@ -6,7 +6,7 @@ $(document).ready(function () {
     } else {
         // Fetch data from SheetDB if not cached
         $.ajax({
-            url: 'https://sheetdb.io/api/v1/najrtf88dl5bi',
+            url: 'https://sheetdb.io/api/v1/3ouw669d9jn1p',
             method: 'GET',
             dataType: 'json',
             success: function (data) {
